@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZAMETKA</string>
+
+    <string name="btn_done">ГОТОВО</string>
+    <string name="btn_choose">ВЫБРАТЬ</string>
+    <string name="btn_exit">ВЫХОД</string>
+</resources>
